@@ -1,0 +1,1 @@
+SELECT name,birth FROM pet WHERE species = 'bird' OR species = 'cat'

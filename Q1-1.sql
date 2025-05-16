@@ -1,0 +1,1 @@
+SELECT owner,name FROM pet WHERE sex = 'f'

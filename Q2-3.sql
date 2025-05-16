@@ -1,0 +1,1 @@
+SELECT name FROM pet WHERE name NOT LIKE '%fy'
