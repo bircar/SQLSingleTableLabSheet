@@ -1,0 +1,1 @@
+SELECT owner, COUNT(species) FROM pet WHERE species = 'bird' GROUP BY owner

@@ -1,0 +1,1 @@
+SELECT sex, COUNT(sex) FROM pet WHERE sex = 'm' OR sex = 'f' GROUP BY sex

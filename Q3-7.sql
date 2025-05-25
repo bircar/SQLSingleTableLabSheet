@@ -1,0 +1,1 @@
+SELECT owner, SUM(checkups) FROM pet GROUP BY owner

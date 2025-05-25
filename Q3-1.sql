@@ -1,0 +1,1 @@
+SELECT owner, AVG(checkups) FROM pet GROUP BY owner

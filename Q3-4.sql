@@ -1,0 +1,1 @@
+SELECT owner, COUNT(DISTINCT species) FROM pet GROUP BY owner

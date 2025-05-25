@@ -1,0 +1,1 @@
+SELECT name, strftime('%m', birth)AS Month FROM pet WHERE death IS NULL;

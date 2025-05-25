@@ -1,0 +1,1 @@
+SELECT owner, species, COUNT(*) AS number FROM pet GROUP BY owner, species
